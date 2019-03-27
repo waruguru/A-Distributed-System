@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2013\Projects\PTSLibraryRecent\PTSLibraryRecent\bin\Debug\PTSLibraryRecent.dll.config
+C:\Users\user\documents\visual studio 2013\Projects\PTSLibraryRecent\PTSLibraryRecent\bin\Debug\PTSLibraryRecent.dll
+C:\Users\user\documents\visual studio 2013\Projects\PTSLibraryRecent\PTSLibraryRecent\bin\Debug\PTSLibraryRecent.pdb
+C:\Users\user\documents\visual studio 2013\Projects\PTSLibraryRecent\PTSLibraryRecent\obj\Debug\PTSLibraryRecent.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\PTSLibraryRecent\PTSLibraryRecent\obj\Debug\PTSLibraryRecent.dll
+C:\Users\user\documents\visual studio 2013\Projects\PTSLibraryRecent\PTSLibraryRecent\obj\Debug\PTSLibraryRecent.pdb

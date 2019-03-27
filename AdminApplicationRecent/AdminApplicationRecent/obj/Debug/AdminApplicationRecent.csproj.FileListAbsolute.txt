@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\AdminApplicationRecent\AdminApplicationRecent\bin\Debug\AdminApplicationRecent.exe.config
+c:\users\user\documents\visual studio 2013\Projects\AdminApplicationRecent\AdminApplicationRecent\bin\Debug\AdminApplicationRecent.exe
+c:\users\user\documents\visual studio 2013\Projects\AdminApplicationRecent\AdminApplicationRecent\bin\Debug\AdminApplicationRecent.pdb
+c:\users\user\documents\visual studio 2013\Projects\AdminApplicationRecent\AdminApplicationRecent\obj\Debug\AdminApplicationRecent.frmAdmin.resources
+c:\users\user\documents\visual studio 2013\Projects\AdminApplicationRecent\AdminApplicationRecent\obj\Debug\AdminApplicationRecent.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\AdminApplicationRecent\AdminApplicationRecent\obj\Debug\AdminApplicationRecent.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\AdminApplicationRecent\AdminApplicationRecent\obj\Debug\AdminApplicationRecent.exe
+c:\users\user\documents\visual studio 2013\Projects\AdminApplicationRecent\AdminApplicationRecent\obj\Debug\AdminApplicationRecent.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\AdminApplicationRecent\AdminApplicationRecent\bin\Debug\PTSLibraryRecent.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\AdminApplicationRecent\AdminApplicationRecent\bin\Debug\PTSLibraryRecent.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\AdminApplicationRecent\AdminApplicationRecent\obj\Debug\AdminApplicationRecent.csprojResolveAssemblyReference.cache
